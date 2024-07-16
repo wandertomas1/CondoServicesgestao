@@ -22,7 +22,7 @@ nav ul li {
 }
 
 .hero-image {
-    background-image: url('condo.jpg');
+    background-image: url('Condo.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -36,6 +36,20 @@ nav ul li {
 
 .hero-image p {
     font-size: 1.2em;
+}
+
+.main-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.qr-code {
+    margin-top: 20px;
+}
+
+.qr-code img {
+    width: 150px;
+    height: 150px;
 }
 
 main {
@@ -71,5 +85,3 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
-
-img {
