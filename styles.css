@@ -1,12 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Verdana;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #171599;
+    color: rgb(192, 4, 4);
     padding: 10px 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@ nav ul li {
     background-image: url('Condo.jpg');
     background-size: cover;
     background-position: center;
-    color: white;
+    color: rgb(25, 8, 121);
     text-align: center;
     padding: 100px 20px;
 }
@@ -74,14 +74,14 @@ form input, form textarea {
 form button {
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #0a0a0a;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 footer {
-    background-color: #f1f1f1;
+    background-color: #111010;
     text-align: center;
     padding: 10px 0;
 }
